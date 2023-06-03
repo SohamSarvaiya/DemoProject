@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="title">자유톡</string>
+    <string name="username">안녕 나 응애 </string>
+    <string name="checkmark">1일전</string>
+    <string name="checkmarkTitle">팔로우</string>
+    <string name="postHeading">지난 월요일에 했던 이벤트 중 가장 괜찮은 상품 뭐야?</string>
+    <string name="postTitle">지난 월요일에 2023년 S/S 트렌드 알아보기 이벤트 참석했던 팝들아~
+혹시 어떤 상품이 제일 괜찮았어? \n\n
+
+후기 올라오는거 보면 로우라이즈? 그게 제일 반응 좋고 그 테이블이
+제일 재밌었다던데 맞아??? \n\n
+
+올해 로우라이즈가 트렌드라길래 나도 도전해보고 싶은데 말라깽이가
+아닌 사람들도 잘 어울릴지 너무너무 궁금해ㅜㅜ로우라이즈 테이블에
+있었던 팝들 있으면 어땠는지 후기 좀 공유해주라~~!</string>
+    <string name="hasTag1">#2023</string>
+    <string name="hasTag2">#TODAYISMONDAY</string>
+    <string name="hasTag3">#TOP</string>
+    <string name="hasTag4">#POPS!</string>
+    <string name="hasTag5">#WOW</string>
+    <string name="hasTag6">#ROW</string>
+    <string name="userComent">어머 제가 있던 테이블이 제일 반응이 좋았나보네요🤭 우짤래미님도 아시겠지만 저도 일반인 몸매 그 이상도 이하도 아니잖아요?! 그런 제가 기꺼이 도전해봤는데 생각보다 괜찮았어요! 오늘 중으로 라이브 리뷰 올라온다고 하니 꼭 봐주세용~!</string>
+    <string name="otherUsername">ㅇㅅㅇ</string>
+    <string name="otherUsermark">1일전</string>
+    <string name="otherUserComment">오 대박! 라이브 리뷰 오늘 올라온대요? 챙겨봐야겠다</string>
+    <string name="comment">등록</string>
+    <string name="editHint">댓글을 남겨주세요.</string>
+    <string name="_5">5</string>
+    <string name="_165cm">165cm</string>
+    <string name="_53kg">53kg</string>
+    <string name="_2023">#2023</string>
+    <string name="todayismonday">#TODAYISMONDAY</string>
+    <string name="top">#TOP</string>
+    <string name="pops">#POPS!</string>
+    <string name="wow">#WOW</string>
+    <string name="row">#ROW</string>
+
+</resources>
